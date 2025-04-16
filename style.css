@@ -399,3 +399,7 @@ footer p a:hover {
     color: #9f26aa;
     text-decoration: none;
 }
+
+.row {
+    text-align: center;
+}
